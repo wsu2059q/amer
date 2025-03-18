@@ -1,0 +1,11 @@
+aiocqhttp
+redis
+uvicorn
+requests
+Pillow
+beautifulsoup4
+openai
+moviepy
+pydub
+six
+captcha
